@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: iranSans;
+  src: url(../public/font/FontsFree-Net-ir_sans.ttf);
+}
+
+* {
+  font-family: 'iranSans', sans-serif !important;
+}
+
+.font-en {
+  font-family: system-ui !important;
+}
+
+/* temp styles */
+
+.container {
+  display: flex;
+  flex-direction: column;
+}

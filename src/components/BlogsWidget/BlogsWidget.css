@@ -1,0 +1,79 @@
+.blogs-widget {
+    padding: 20px;
+    border-radius: 8px;
+    padding: 20px;
+    direction: rtl;
+}
+
+.newest-blogs, .popular-blogs {
+    margin-bottom: 20px;
+}
+
+.newest-blogs h2, .popular-blogs h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.blogs-list {
+    display: flex;
+    flex-direction: row;
+    gap: 6rem; 
+    flex-wrap: wrap;
+    justify-content: center; /* Ensures proper spacing between elements */
+}
+
+.blog-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Ensures proper spacing between elements */
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: right;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+
+.blog-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.blog-card img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+}
+
+.blog-card h3 {
+    font-size: 1.2rem;
+    margin: 10px;
+    color: #444;
+}
+
+.blog-card p {
+    font-size: 0.9rem;
+    margin: 0 10px 10px;
+    color: #666;
+}
+
+.blog-card a {
+    margin-top: auto;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0 0 8px 8px;
+    transition: background-color 0.2s ease;
+}
+
+.blog-card a:hover {
+    background-color: #0056b3;
+}
