@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ancientiranica/static/css/main.34bb7621.css",
+    "main.js": "/ancientiranica/static/js/main.33e2dbf3.js",
+    "static/media/FontsFree-Net-ir_sans.ttf": "/ancientiranica/static/media/FontsFree-Net-ir_sans.b405362106aecf6bb79b.ttf",
+    "index.html": "/ancientiranica/index.html",
+    "main.34bb7621.css.map": "/ancientiranica/static/css/main.34bb7621.css.map",
+    "main.33e2dbf3.js.map": "/ancientiranica/static/js/main.33e2dbf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34bb7621.css",
+    "static/js/main.33e2dbf3.js"
+  ]
+}
