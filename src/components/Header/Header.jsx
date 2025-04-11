@@ -7,7 +7,7 @@ export default function Header() {
         <>
             <nav className='navbar'>
                 <div className='navbar__logo'>
-                    <img src='../../img/faravahar-logo.png' alt="Logo" className='navbar__logo-image' />
+                    <img src='img/faravahar-logo.png' alt="Logo" className='navbar__logo-image' />
                     <h1 className='navbar__logo-text font-en'>Ancientiranica</h1>
                 </div>
                 <ul className='navbar__links'>
@@ -20,12 +20,12 @@ export default function Header() {
             </nav>
             <section className='hero'>
                 <div className='hero__content'>
-                    <img src="../../img/faravahar-logo.png" className='hero__logo' alt="Logo" />
+                    <img src="img/faravahar-logo.png" className='hero__logo' alt="Logo" />
                     <h1 className='hero__title'>ایرانیکای باستان</h1>
                     <p className='hero__description'>سفری به درون قلب ایران باستان</p>
                 </div>
                 <div className='hero__image-container'>
-                    <img src='../../img/hero-img.jpg' alt="Hero" className='hero__image' />
+                    <img src='img/hero-img.jpg' alt="Hero" className='hero__image' />
                 </div>
             </section>
         </>
