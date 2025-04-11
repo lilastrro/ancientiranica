@@ -19,19 +19,19 @@ export default function BlogsWidget() {
                 <h2 data-aos="fade-left">جدیدترین مقالات</h2>
                 <div className='blogs-list' data-aos="fade-left">
                     <div className='blog-card'>
-                        <img src='../../img/blog.jpg' alt='blog' />
+                        <img src='img/blog.jpg' alt='blog' />
                         <h3>عنوان مقاله</h3>
                         <p>توضیحات مختصر درباره مقاله</p>
                         <a href='#'>ادامه مطلب</a>
                     </div>
                     <div className='blog-card'>
-                        <img src='../../img/blog.jpg' alt='blog' />
+                        <img src='img/blog.jpg' alt='blog' />
                         <h3>عنوان مقاله</h3>
                         <p>توضیحات مختصر درباره مقاله</p>
                         <a href='#'>ادامه مطلب</a>
                     </div>
                     <div className='blog-card'>
-                        <img src='../../img/blog.jpg' alt='blog' />
+                        <img src='img/blog.jpg' alt='blog' />
                         <h3>عنوان مقاله</h3>
                         <p>توضیحات مختصر درباره مقاله</p>
                         <a href='#'>ادامه مطلب</a>
@@ -42,19 +42,19 @@ export default function BlogsWidget() {
                 <h2 data-aos="fade-left">مقالات پرطرفدار</h2>
                 <div className='blogs-list' data-aos="fade-right">
                     <div className='blog-card'>
-                        <img src='../../img/blog.jpg' alt='blog' />
+                        <img src='img/blog.jpg' alt='blog' />
                         <h3>عنوان مقاله</h3>
                         <p>توضیحات مختصر درباره مقاله</p>
                         <a href='#'>ادامه مطلب</a>
                     </div>
                     <div className='blog-card'>
-                        <img src='../../img/blog.jpg' alt='blog' />
+                        <img src='img/blog.jpg' alt='blog' />
                         <h3>عنوان مقاله</h3>
                         <p>توضیحات مختصر درباره مقاله</p>
                         <a href='#'>ادامه مطلب</a>
                     </div>
                     <div className='blog-card'>
-                        <img src='../../img/blog.jpg' alt='blog' />
+                        <img src='img/blog.jpg' alt='blog' />
                         <h3>عنوان مقاله</h3>
                         <p>توضیحات مختصر درباره مقاله</p>
                         <a href='#'>ادامه مطلب</a>
